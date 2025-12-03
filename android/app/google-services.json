@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "15593656338",
+    "project_id": "vsat-saarthi-a1074",
+    "storage_bucket": "vsat-saarthi-a1074.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15593656338:android:7b6c5bea74f945829b88cb",
+        "android_client_info": {
+          "package_name": "com.example.vsat_saarthi_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15593656338-ia6b9tvbnmo6pnbs6tteam21h0elmlsl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vsat_saarthi_flutter",
+            "certificate_hash": "af4c1015b05adb4150a4c7b67c31e07b08b4b16d"
+          }
+        },
+        {
+          "client_id": "15593656338-8nu6d1koti0kulqf6d7mt6j9p8fua4iq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALEpu6-2xeON-svhQHyF_hvEQ-Wv-ybvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15593656338-8nu6d1koti0kulqf6d7mt6j9p8fua4iq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
